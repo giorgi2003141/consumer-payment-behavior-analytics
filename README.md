@@ -155,6 +155,6 @@ DIVIDE(
 
 **Data source:** [dataset name and link]
 
-👤 **Author:** [Your Name] · [LinkedIn](https://linkedin.com/in/your-profile)
+👤 **Author:** [Giorgi shengelia] · www.linkedin.com/in/giorgi-shengelia-a929b3244
 
 Feedback is always welcome!
